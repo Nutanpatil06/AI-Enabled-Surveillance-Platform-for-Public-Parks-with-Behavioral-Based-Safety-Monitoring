@@ -1,0 +1,7 @@
+venv/
+data/
+__pycache__/
+*.pyc
+# Ignore YOLO training artifacts
+runs/**/weights/
+runs/**/*.cache

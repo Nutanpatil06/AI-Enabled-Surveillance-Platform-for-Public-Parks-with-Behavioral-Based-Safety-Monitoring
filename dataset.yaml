@@ -1,0 +1,10 @@
+path: data
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: walking
+  1: running
+  2: unauthorized
